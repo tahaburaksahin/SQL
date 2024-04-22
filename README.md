@@ -1,2 +1,5 @@
 # SQL
-Oracle SQL Task Daily !!!1
+Oracle SQL Task Daily !!!!!
+
+// For everyone
+
